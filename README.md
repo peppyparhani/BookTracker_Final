@@ -18,7 +18,7 @@ https://youtu.be/Arf9VtfpPT8
    
 a. **clone atau Download Proyek**
 Jika menggunakan Git :
-git clone https://github.com/peppyparhani/Book_Tracker.git
+git clone https://github.com/peppyparhani/BookTracker_Final
 cd BookTracker
 atau bisa download zip, kemudian ekstrak di folder lokal. 
 
